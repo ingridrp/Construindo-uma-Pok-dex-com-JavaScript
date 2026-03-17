@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokédex DIO</title>
+  <!-- Ligar o CSS: style.css -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <!-- Colocar título da Pokédex -->
+    <!-- Adicionar input para o usuário digitar nome ou ID do Pokémon -->
+    <!-- Adicionar botão de busca -->
+  </header>
+
+  <main>
+    <div id="pokemon-container">
+      <!-- Aqui os Pokémon vão aparecer -->
+      <!-- Mostrar: imagem, nome, ID, tipo(s), altura e peso -->
+      <!-- Se for versão avançada: cards em grid -->
+    </div>
+  </main>
+
+  <footer>
+    <!-- Texto simples como "Feito com ❤️ na DIO" -->
+  </footer>
+
+  <!-- Ligar o JS: script.js -->
+  <script src="script.js"></script>
+</body>
+</html>
